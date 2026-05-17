@@ -21,6 +21,10 @@
    <a href="https://www.awaiteddevelopments.com/contact">Contact</a>
    •
    <a href="mailto:support@awaiteddevelopments.com">Email Support</a>
+   <br/>
+<br/>
+       <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
+
 </p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release)
