@@ -14,9 +14,9 @@
     <br />
     <a href="https://github.com/lordchunder/rustsignpainter-app">Download for Free</a>
     •
-    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a>
+    <a href="https://www.awaiteddevelopments.com/contact">Report a Bug</a>
     •
-    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a>
+    <a href="https://www.awaiteddevelopments.com/contact">Request a Feature</a>
   </p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release)
