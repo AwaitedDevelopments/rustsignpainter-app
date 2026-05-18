@@ -24,14 +24,12 @@
    <br/>
 <br/>
        <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
-
 </p>
 
-![GitHub Release](https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release)
-![GitHub Repo stars](https://img.shields.io/github/stars/lordchunder/rustsignpainter-app)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/lordchunder/rustsignpainter-app/total)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/lordchunder/rustsignpainter-app)
-
+[<img alt="GitHub Version" src="https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
+[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lordchunder/rustsignpainter-app"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
+[<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/lordchunder/rustsignpainter-app/total"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
+[<img alt="GitHub Issues" src="https://img.shields.io/github/issues/lordchunder/rustsignpainter-app"/>](https://github.com/LordChunder/rustsignpainter-app/issues)
 
 </div>
 
