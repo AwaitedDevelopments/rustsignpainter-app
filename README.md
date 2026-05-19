@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center ">
   <a  href="https://github.com/lordchunder/rustsignpainter-app">
-     <img src="https://repository-images.githubusercontent.com/1240215351/e927fd04-2f52-40ae-a1b9-6a9fc3d50da4" alt="Logo" width="428" height="214">
+     <img src="https://repository-images.githubusercontent.com/1240215351/565c142f-d291-435d-83e0-03bb88e1852f" alt="Logo" width="428" height="214">
   </a>
 
 <h1 style="font-family: monospace; margin: 0">RUST SIGN PAINTER</h1>
