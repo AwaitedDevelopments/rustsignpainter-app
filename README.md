@@ -19,11 +19,10 @@
 </p>
 
 [<img alt="GitHub Version" src="https://img.shields.io/github/v/release/AwaitedDevelopments/rustsignpainter-app?display_name=release"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
-[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AwaitedDevelopments/rustsignpainter-app"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
+[<img alt="GitHub Size" src="https://img.shields.io/github/size/awaiteddevelopments/rustsignpainter-app/rsp.exe"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
 [<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/AwaitedDevelopments/rustsignpainter-app/total"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
 [<img alt="GitHub Issues" src="https://img.shields.io/github/issues/AwaitedDevelopments/rustsignpainter-app"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/issues)
-[<img alt="GitHub Issues" src="https://img.shields.io/github/size/awaiteddevelopments/rustsignpainter-app/rsp.exe"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
-
+[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AwaitedDevelopments/rustsignpainter-app"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
 
 </div>
 
